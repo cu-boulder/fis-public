@@ -1,0 +1,252 @@
+MIME-Version: 1.0
+Reply-To: <sometrusteduser@school.edu>
+Subject: ORCID iD Registration Phase – Expect Contact from ORCID
+From: "Firstname,LastName" <sometrusteduser@school.edu>
+To: ReplaceMe0
+Content-Type: multipart/alternative; boundary=001a11342efc47005c04ec92ac60
+
+--001a11342efc47005c04ec92ac60
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Dear ReplaceMe1 ReplaceMe2,
+
+The registration phase for the ORCID initiative on the Boulder campus has
+begun! 
+Faculty Affairs is creating ORCID iDs for all active faculty members at
+CU-Boulder with appointments in these groups: tenure-track faculty,
+instructors, clinical faculty, and research faculty. 
+Action Requested 
+•	You will receive an email within the next 24-48 hours from ORCID
+(www.orcid.org) asking you to claim your newly created ORCID iD. 
+•	Faculty Affairs has initiated this registration for all faculty at
+CU-Boulder. 
+•	Please follow the steps outlined in the email you will receive from
+claim@notify.orcid.org to claim your ORCID iD. Your login to orcid.org will
+be: elsborg@colorado.edu 
+•	You may add scholarly works to your ORCID profile if you desire;
+however, this is voluntary. CU-Boulder will continue to focus faculty efforts
+through the VIVO profiles (http://vivo.colorado.edu/) which may be updated
+using the FRPA application accessible through the CU portal Faculty Report of
+Professional Activities - FRPA . 
+If you have a pre-existing ORCID iD, follow these steps: 
+1. Do not claim the newly created ORCID iD.
+2. Include the URL for your existing ORCID iD in a reply to this email.
+3. The new, unclaimed ORCID iD will be deactivated by our team so you do not
+end up with multiple ORCID iDs.
+What Will Show on Your ORCID Profile 
+•	Your ORCID iD: in this format - http//orcid.org/0000-0000-0000-XXXX 
+•	Your Name: ReplaceMe1 ReplaceMe2 
+•	Your CU Boulder email used for ORCID registration:
+ReplaceMe0@colorado.edu 
+(Your email is set to private and not visible unless you change the setting to
+public.) 
+•	Employment affiliation to the University of Colorado Boulder 
+About our CU-Boulder ORCID initiative 
+•	The initial scope of our ORCID implementation is to create ORCID iDs
+en masse for our faculty to populate ORCID iDs in the data systems for
+manuscript and grant submission processes to assist with proper attribution of
+scholarly works. 
+•	Future value for reading data from ORCID or populating data from VIVO
+to ORCID will be evaluated. Other data connections will be streamlined as best
+we can to make the most of the data already collected. 
+•	If you missed the campus communication ememo on the ORCID iD project,
+please see the full information here: E-Memo on ORCID from the Office of the
+Provost and the Office of the Dean of the University Libraries 
+What is ORCID? 
+•	The ORCID registry is a “non-profit, community-driven effort to create
+and maintain a registry of unique faculty identifiers and a transparent method
+of linking research activities and outputs to these identifiers”
+(http://orcid.org/content/initiative). 
+•	As reliance on automated data sources increases, the problem of name
+ambiguity combined with incomplete data about scholarly works creates a
+situation where many faculty may not receive proper attribution for the full
+range of their scholarly contributions. ORCID attempts to solve this problem
+by creating unique faculty ids that can be linked to existing identifiers as
+well as to publisher manuscript submission systems, funding agency grant
+application workflows, and other tools. 
+•	Unlike other identifier systems, ORCID is open and community-driven,
+and reaches across disciplines, geographic regions, and types of content held
+by publishers, journals, and funding agencies to include all types of scholar
+works (e.g., articles, books, data sets, grants, software, etc.). 
+Questions? 
+See the campus ORCID project website:
+http://ucblibraries.colorado.edu/ScholarlyCommunications/ORCID/. 
+Contact members of the project team by email at orcidsupport@school.edu or
+call Faculty Affairs at 303-111-1111. 
+This project is funded by a grant from the Sloan Foundation, supported by the
+Provost and jointly managed by the Office of Faculty Affairs and the Dean of
+the Libraries. 
+
+
+
+
+--001a11342efc47005c04ec92ac60
+Content-Type: text/html; charset=UTF-8
+
+<!---------------Begin Logo and Email title ----------------->
+          <table style="width:75%" border="0" cellpadding="10" cellspacing="0">
+             <tr>
+               <td align="left" padding_bottom:2px><img src="http://brand.colorado.edu/sites/default/files/images-wysiwyg/Boulder-FL-master.png" alt="University of Colorado Boulder" />
+</td>
+               <td> <a href="http://www.orcid.org" target="_blank"><img src="http://s3.amazonaws.com/uploads.uservoice.com/logo/design_setting/115962/original/orcid_tagline.jpg?1347041301" alt="Orcid " /></a></td>
+             </tr>
+          </table>
+<!-----------------END Logo and Email title ----------------->
+<!-----------------Begin Letter content Area ----------------->
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+<BR>
+<BR>
+Dear ReplaceMe1 ReplaceMe2,
+</p>
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+<b>The registration phase for the ORCID initiative on the Boulder campus has begun!</b>
+</p>
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+Faculty Affairs has created ORCID iDs for all active faculty members at CU-Boulder with appointments in these groups: tenure-track faculty, instructors, clinical faculty, and research faculty.
+</p>
+
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+<b>Action Requested</b>
+</p>
+<table style="width:90%" border="1" cellpadding="10" cellspacing="0">
+<tr><td style="font-family:Arial;font-size:11pt","sans-serif">
+<ul type=disc style="font-family:Arial;font-size:11pt;","sans-serif">
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	You will receive an email within the next 24-48 hours from ORCID
+(<a href="http://www.orcid.org">www.orcid.org</a>) asking you to claim your newly created ORCID iD.
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	Faculty Affairs has initiated this registration for all faculty at CU-Boulder.
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+<b>	Please follow the steps outlined in the email you will receive from claim@notify.orcid.org to claim your ORCID iD.</b>
+Your login to orcid.org will be: ReplaceMe0
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	You may add scholarly works to your ORCID profile if you desire; 
+however, <b>this is voluntary</b>. CU-Boulder will continue to focus faculty efforts through the VIVO profiles (<a href="http://vivo.colorado.edu/">http://vivo.colorado.edu/</a>) which may be updated using the FRPA application accessible through the CU portal 
+<a href="https://frpadb.colorado.edu/pls/frpa/forms.logon"> Faculty Report of Professional Activities - FRPA </a>.
+</li>
+</ul>
+
+</td></tr></table>
+
+
+
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+<b>If you have a pre-existing ORCID iD,  follow these steps:</b>
+</p>
+<table style="width:90%" border="1" cellpadding="10" cellspacing="0">
+<tr><td style="font-family:Arial;font-size:11pt","sans-serif">
+<p
+style="font-family:Arial,'sans-serif';font-size:11pt;margin-left:20px;">
+    1. Do <b>not</b> claim the newly created ORCID iD.<BR>
+    2. Include the URL for your existing ORCID iD in a reply to this email.<BR>
+    3. The new, unclaimed ORCID iD will be deactivated by our team so you do not end up with multiple ORCID iDs.<BR>
+</p>
+</td></tr></table>
+
+
+
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+<b>What Will Show on Your ORCID Profile</b>
+<ul type=disc style="font-family:Arial;font-size:11pt;","sans-serif">
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	Your ORCID iD: in this format -  http//orcid.org/0000-0000-0000-XXXX
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	Your Name: ReplaceMe1 ReplaceMe2 
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	Your CU Boulder email used for ORCID registration: ReplaceMe0
+<BR>
+        (Your email is set to private and not visible unless you change the setting to public.)
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	Employment affiliation to the University of Colorado Boulder
+</li>
+</ul>
+</p>
+
+
+
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+<b>About our CU-Boulder ORCID initiative</b>
+<ul type=disc style="font-family:Arial;font-size:11pt;","sans-serif">
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+	The initial scope of our ORCID implementation is to create ORCID iDs en masse for our faculty to populate ORCID iDs in the data systems for manuscript and grant submission processes to assist with proper attribution of scholarly works. 
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+Future value for reading data from ORCID or populating data from VIVO to ORCID will be evaluated. Other data connections will be streamlined as best we can to make the most of the data already collected.
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+If you missed the campus communication ememo on the ORCID iD project, please see the full information here:
+<a href="http://ucblibraries.colorado.edu/ScholarlyCommunications/orcid/campusememo41414.htm"> E-Memo on ORCID from the Office of the Provost and the Office of the Dean of the University Libraries </a>
+</li>
+</ul>
+</p>
+
+
+
+
+<p style="font-family:Arial;font-size:11pt","sans-serif">
+<b>What is ORCID?  </b>
+
+<ul type=disc style="font-family:Calibri;font-size:10pt","sans-serif">
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-a lt:auto;
+     mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+The ORCID registry is a “non-profit, community-driven effort to create and maintain 
+<b>a registry of</b> <b>unique faculty identifiers</b> and a
+     transparent <b>method of linking research activities</b> and outputs to
+     these identifiers” <a href="http://orcid.org/content/initiative">(http://orcid.org/content/initiative).</a>
+<o:p></o:p>
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-at:auto;
+     mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+     As reliance on automated data sources increases, the problem of name
+     ambiguity combined with incomplete data about scholarly works creates a
+     situation where many faculty may not receive proper attribution for the
+     full range of their scholarly contributions. ORCID attempts to solve this
+     problem by creating unique faculty ids that can be linked to existing
+     identifiers as well as to publisher manuscript submission systems, funding
+     agency grant application workflows, and other tools.
+</li>
+ <li class=3DMsoNormal style="margin: 10px 0;",3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto; mso-list:l4 level1 lfo6;tab-stops:list .5in'>
+     Unlike other identifier systems, ORCID is open and community-driven, and reaches <b>across
+     disciplines, geographic regions, and</b> <b>types of content</b> held by
+     publishers, journals, and funding agencies <b>to include all types of
+     scholar works</b> (e.g., articles, books, data sets, grants, software,
+     etc.).<o:p></o:p>
+</li>
+</ul>
+<p style='font-size:11.0pt;font-family:"Arial","sans-serif"'>
+<b>
+Questions?
+</b></p>
+
+<p style='font-size:11.0pt;font-family:"Arial","sans-serif"'>
+See the campus ORCID project website: 
+<a href="http://ucblibraries.colorado.edu/ScholarlyCommunications/ORCID/">
+ http://ucblibraries.colorado.edu/ScholarlyCommunications/ORCID/.</a>
+</p>
+<p style='font-size:11.0pt;font-family:"Arial","sans-serif"'>
+Contact members of the project team by email at 
+<a href="mailto:orcidsupport@school.edu"> orcidsupport@school.edu</a> 
+or call Faculty Affairs at 303-111-1111.
+</p>
+
+<p style='font-size:11.0pt; font-family:"Arial","sans-serif"'>
+<i style='mso-bidi-font-style:normal'>
+This project is funded by a grant from the Sloan Foundation, supported by the Provost and jointly managed by the Office of
+Faculty Affairs and the Dean of the Libraries.
+<br style=3D'mso-special-character: line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-break'>
+<![endif]>
+</i>
+</p>
+
+</div>
+
+--001a11342efc47005c04ec92ac60--
