@@ -1,4 +1,7 @@
-To search for all publications by organization egLASP publications:
+FIS publication offical endpoint: 
+https://experts.colorado.edu/es/webex-v3/_search
+
+To search for all publications by organization eg: LASP publications:
 {"query":{"bool":{"must":[{"term":{"authors.organization.name.keyword":"Laboratory for Atmospheric and Space Physics (LASP)"}},{"match_all":{}}]}},"sort":[{"publicationYear.keyword":{"order":"desc"}}],"from":0,"size":20}
 
 This query can be translated to this URL encoded string which can be used on the browser
