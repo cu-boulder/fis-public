@@ -16,3 +16,5 @@ https://experts.colorado.edu/es/webex-v3/_search?source_content_type=application
 
 Javascript library we use to build our people and publcations page from Elastic:
 https://github.com/vivo-community/facetedsearch
+
+Elastic reference: https://www.elastic.co/guide/en/elasticsearch/reference/6.7/index.html
