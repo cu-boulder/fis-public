@@ -3,6 +3,10 @@ fis-public
 
 Public code repository for CU Boulder FIS
 
+fis-api -- code examples on how to query CU Experts elastic data
+
+experts-elastic-wikidata -- Jupyter/iPython notebooks mashing up Experts elastic data with wikidata
+
 
 ================ License =====================================
 
